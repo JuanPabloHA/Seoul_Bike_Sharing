@@ -1,5 +1,5 @@
-# Notebooks folder for the end to end machine learning project
+# Notebooks folder for the Seoul bike-sharing end to end machine learning project
 
-Host the code for the project's cycle:
+Host the project's code.
 
 
